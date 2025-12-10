@@ -33,15 +33,18 @@ Add exercises (sets, reps, duration per set)
 View all routines
 View details of a specific routine
 Remove routines safely
+
 ✔ Exercises
 Attach multiple exercises to each routine
 Store repetitions, sets, and duration
 Data grows dynamically — no fixed limits
+
 ✔ File Persistence
 Automatically saves to:
 routines.txt
 exercises.txt
 Load your data anytime
+
 ✔ Weekly Workout Planner
 Pick routines for the week
 Customize durations
