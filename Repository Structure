@@ -1,0 +1,19 @@
+/
+|-- src/
+|     |-- main.c
+|     |-- workout_db.c
+|     |-- workout_io.c
+|     |-- workout_plan.c
+|
+|-- include/
+|     |-- workout_db.h
+|     |-- workout_io.h
+|     |-- workout_plan.h
+|
+|-- docs/
+|     |-- project_report.pdf        
+|     |-- flowchart.png        
+|
+|-- README.md
+|
+|-- sample_input.txt                (optional test inputs)
